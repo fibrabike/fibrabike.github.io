@@ -2,16 +2,16 @@ url: https://fibrabike.github.io
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Fibra
+email: info.fibrabike@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Matteo
   pic: 1
-  position: Lead Designer
+  position: 
   social:
     - title: twitter
       url: #
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
