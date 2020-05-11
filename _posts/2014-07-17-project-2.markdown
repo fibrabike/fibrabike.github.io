@@ -4,7 +4,8 @@ subtitle: Incantato?
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: numero2_square.png
+img1: numero2.1_square.png
+img2: numero2.2_square.png
 thumbnail: numero2.jpg
 alt: image-alt
 project-date: April 2014
