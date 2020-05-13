@@ -7,9 +7,8 @@ document.onkeydown = function(evt) {
         modal = tokens[tokens.length - 1]
         if (modal.startsWith("portfolioModal")) {
             // console.log(modal)
-            modal = document.getElementById("close-button-".concat(modal))
-            modal.click()
-            window.history.pushState("", "", '/');
+            document.getElementById("close-button-".concat(modal)).click();
+            history.back();
         }
     }
 };
