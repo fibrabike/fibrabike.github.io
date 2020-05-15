@@ -2,3 +2,23 @@
     width: 150px;
     margin-top: -25px;
 }
+
+.gdpr-paragraph {
+    position: absolute !important;
+    white-space: nowrap !important;
+    margin-top: -20px !important;
+    margin-left: 12px !important;
+}
+
+.gdpr-checkbox {
+    display: inline-block !important;
+}
+
+.gdpr-label {
+    width: 20px !important;
+    color: #fff;
+}
+
+.small-margin-top {
+    margin-top: 20px !important;
+}
