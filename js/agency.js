@@ -34,4 +34,13 @@ $('div.modal').on('show.bs.modal', function() {
 			$(modal).modal('hide');
 		}
 	}
+	// 'loaded'/'shown' events are not fired, so let's manually give focus after a small delay
+    setTimeout(function() {
+        document.getElementById(hash).focus();
+        }, 200
+    );
+});
+
+$('div.modal').on('hidden.bs.modal', function() {
+    history.back();
 });
