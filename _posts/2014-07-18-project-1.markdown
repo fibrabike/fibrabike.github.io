@@ -1,16 +1,18 @@
 ---
-title: Bici Segreta
-subtitle: Curioso?
+title: Augusta
+subtitle: City bike
 layout: default
 modal-id: 1
 date: 2014-07-18
-img1: numero1.1_square.png
-img2: numero1.2_square.png
-thumbnail: numero1.jpg
+img1: Augusta_1.jpg
+img2: transparent-img.png
+img3: transparent-img.png
+img4: transparent-img.png
+img5: transparent-img.png
+thumbnail: Augusta_1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: In fase di decriptaggio...
-
+description: Come la mia città natale Rimini Augusta è pensata per affrontare strade bianche, </br> oltre che il pavé, per essere sempre un passo avanti. </br> Una bici per perfetta per ogni occasioni e adatta per tutte le strade, </br> non ti farà passare inosservato.
 ---

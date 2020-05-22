@@ -1,15 +1,19 @@
 ---
-title: Bici Stregata
-subtitle: Incantato?
+title: Enigma
+subtitle: Eletric Bike
 layout: default
 modal-id: 2
 date: 2014-07-17
-img1: numero2.1_square.png
-img2: numero2.2_square.png
-thumbnail: numero2.jpg
+img1: Enigma_1.jpg
+img2: transparent-img.png
+img3: transparent-img.png
+img4: transparent-img.png
+img5: transparent-img.png
+thumbnail: Enigma_1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Rituale in avanzamento...
+description: La bici che a colpo d’occhio nasconde un cuore tutto elettrico, </br>riuscendo a mantenere la sua linea pulita e leggera. </br> Nella ruota posteriore sono racchiusi 60 km di autonomia, </br> ti sembrerà di guidare la bici del futuro con un cruscotto interattivo </br> (creato dal tuo telefono connesso alla ruota da remoto)  Potrai gustarti il piacere di fare una passeggiata al mare o in citta senza fatica </br> e senza avere il look da nonna con la spesa!
 ---
+             

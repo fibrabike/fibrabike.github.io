@@ -1,16 +1,18 @@
 ---
-title: Bici Spericolata
-subtitle: Ti fidi?
+title: Resilienza 2020
+subtitle: Mtb
 layout: default
 modal-id: 3
 date: 2014-07-16
-img1: numero3.1_square.png
-img2: numero3.2_square.png
-thumbnail: numero3.jpg
+img1: Resilienza_1.jpg
+img2: transparent-img.png
+img3: transparent-img.png
+img4: transparent-img.png
+img5: transparent-img.png
+thumbnail: Resilienza_1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: In regolamentazione...
-
+description: Resilienza 2020 è stato il risultato di 3 anni di studi e test </br> un meraviglioso incontro tra legno e attualità. </br> Questa versione monta un mono corona da 36 denti e un pacco pignoni da 11 velocità. </br> Certamente non un mezzo da competizione, o da pazzi scatenati, ma con uno stile che non ha niente da invidiare alle sorelle in carbonio.
 ---
