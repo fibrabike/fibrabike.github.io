@@ -2,7 +2,7 @@
 title: Enigma
 subtitle: Eletric Bike
 layout: default
-modal-id: 2
+modal-id: enigma
 date: 2014-07-17
 img1: Enigma_1.jpg
 img2: transparent-img.png

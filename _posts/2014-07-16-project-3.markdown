@@ -2,7 +2,7 @@
 title: Resilienza 2020
 subtitle: Mtb
 layout: default
-modal-id: 3
+modal-id: resilienza
 date: 2014-07-16
 img1: Resilienza_1.jpg
 img2: transparent-img.png

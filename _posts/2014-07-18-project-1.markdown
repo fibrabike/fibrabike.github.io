@@ -2,7 +2,7 @@
 title: Augusta
 subtitle: City bike
 layout: default
-modal-id: 1
+modal-id: augusta
 date: 2014-07-18
 img1: Augusta_1.jpg
 img2: transparent-img.png
