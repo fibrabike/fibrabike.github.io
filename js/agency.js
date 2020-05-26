@@ -44,3 +44,13 @@ $('div.modal').on('show.bs.modal', function() {
 $('div.modal').on('hidden.bs.modal', function() {
     history.back();
 });
+
+$(window).load(function(){
+    // open the modal if necessary
+    let hash = window.location.hash;
+    if (hash !== '') {
+        window.location.hash = '';
+        history.pushState('', 'Fibra', '');
+        $('div.modal' + hash).modal('show');
+    }
+});
