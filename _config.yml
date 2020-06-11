@@ -8,56 +8,50 @@ description: "Fibrabike, le biciclette in legno fatte a mano in Italia per tutto
 
 
 # Team names, titles and social links
-people:
-- name: Matteo
-  pic: 1
-  position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#people:
+#- name: Matteo
+#  pic: 1
+#  position:
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+#
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+#
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/Fibrabike-104698780919352/
+  - title: instagram
+    url: https://www.instagram.com/fibrabike/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+  - line: TESTER TESTER
   - line: 
 
 # Build settings

@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/Header202006.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -446,7 +446,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #b8b8b8  ;
 }
 
 .timeline>li {
@@ -494,8 +494,8 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
+    border: 7px solid #b8b8b8;
+    border-radius: 90%;
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
@@ -731,6 +731,7 @@ footer span.copyright {
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+
 }
 
 footer ul.quicklinks {
@@ -862,6 +863,44 @@ img::-moz-selection {
     background: 0 0;
 }
 
+ol {
+    color: #ccc;
+    list-style-type: none;
+    margin: center;
+}
+
+ol li {
+    font-family: {{ site.data.template.font.primary}};
+    font-size: 32px;
+    font-style: bold;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.ollioption {
+    font-family: {{ site.data.template.font.primary}};
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.lipar {
+    margin: center;
+    font-family: {{ site.data.template.font.secondary }};
+    text-transform: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #555;
+}
+.liparitalic {
+    margin: center;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 300;
+}
+span {
+    position: center;
+}
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }

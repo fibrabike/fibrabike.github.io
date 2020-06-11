@@ -1,0 +1,18 @@
+---
+title: Accessori
+subtitle: Extra
+layout: default
+modal-id: accessori
+date: 2014-07-15
+img1: Accessori_1.png
+img2: Accessori_2.png
+img3: Accessori_5.jpg
+img4: transparent-img.png
+img5: transparent-img.png
+thumbnail: Accessori_T.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: In ordine </br>- Manubrio retrò essenziale, in mogano e frassino </br> - Pedali retrò in legno e alluminio </br> - Cavalletto in legno con supporto con chiave inglese </br> Scrivici e scopri cosa contiene lo starter pack che accompagna l'acquisto di un telaio </br> *gli accessori posso essere richiesti separatamente dal telaio, anche spediti.
+---

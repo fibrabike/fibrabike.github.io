@@ -5,15 +5,20 @@ layout: default
 modal-id: enigma
 date: 2014-07-17
 img1: Enigma_1.jpg
-img2: transparent-img.png
-img3: transparent-img.png
-img4: transparent-img.png
-img5: transparent-img.png
+img2: Enigma_2.jpg
+img3: Enigma_3.jpg
+img4: Enigma_4.jpg
+img5: Enigma_5.jpg
 thumbnail: Enigma_1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: La bici che a colpo d’occhio nasconde un cuore tutto elettrico, </br>riuscendo a mantenere la sua linea pulita e leggera. </br> Nella ruota posteriore sono racchiusi 60 km di autonomia, </br> ti sembrerà di guidare la bici del futuro con un cruscotto interattivo </br> (creato dal tuo telefono connesso alla ruota da remoto) </br> Potrai gustarti il piacere di fare una passeggiata al mare o in citta senza fatica.
+description: La bici che a colpo d’occhio nasconde un cuore tutto elettrico,</br>
+             riuscendo a mantenere la sua linea pulita e leggera.</br>
+             Nella ruota posteriore sono racchiusi 60 km di autonomia,</br>
+             ti sembrerà di guidare la bici del futuro con un cruscotto interattivo</br>
+             (creato dal tuo telefono connesso alla ruota da remoto)</br>
+             Potrai gustarti il piacere di fare una passeggiata al mare o in città senza fatica.
 ---
              

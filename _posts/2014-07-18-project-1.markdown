@@ -1,18 +1,18 @@
 ---
-title: Augusta
+title: Augusta Ravenge
 subtitle: City bike
 layout: default
-modal-id: augusta
+modal-id: augustaravenge
 date: 2014-07-18
-img1: Augusta_1.jpg
-img2: transparent-img.png
-img3: transparent-img.png
+img1: Augusta_3.jpg
+img2: Augusta_4.jpg
+img3: Augusta_5.jpg
 img4: transparent-img.png
 img5: transparent-img.png
-thumbnail: Augusta_1.jpg
+thumbnail: Augusta_3.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Come la mia città natale Rimini Augusta è pensata per affrontare strade bianche, </br> oltre che il pavé, per essere sempre un passo avanti. </br> Una bici per perfetta per ogni occasioni e adatta per tutte le strade, </br> non ti farà passare inosservato.
+description: Augusta Ravenge è pensata per essere sempre un passo avanti</br> è la natura che si riprende le città.</br> Una bici perfetta per ogni occasione e adatta per tutte le strade, </br>che siano bianche o che sia il pavé </br>non ti farà passare inosservato.
 ---
